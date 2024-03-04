@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About me:
 
-I am a Full Stack Developer with 9+ years of experience, I have honed my skills in developing user-friendly web and mobile applications using React, Vue, Angular, Next, Nuxt, C#, Java Spring Boot, Golang and so on. Collaborating with teams, and working on numerous projects has helped me to become adept in creating agile software development solutions that cater to the specific needs of clients. With strong problem-solving skills, attention to detail and excellent communication skills, I am confident in my ability to deliver high-quality work that exceeds expectation.
+I am a Full Stack Developer with 9+ years of experience, I have honed my skills in developing user-friendly web and mobile applications using React, Vue, Angular, Next, Nuxt, Node.js, NestJS, C#, Java Spring Boot, Python, Django, Flask, FastAPI, Golang and so on. Collaborating with teams, and working on numerous projects has helped me to become adept in creating agile software development solutions that cater to the specific needs of clients. With strong problem-solving skills, attention to detail and excellent communication skills, I am confident in my ability to deliver high-quality work that exceeds expectation.
 
 Thank you for considering my application. I look forward to the opportunity to further discuss how I can contribute to the success of [Company] as a Full Stack Developer.
 
