@@ -1,4 +1,4 @@
-# 👋 Hi, I am a full stack developer with 9+ years of experience!
+# 👋 Hi, I am a full stack developer with 8+ years of experience!
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="400"/>
